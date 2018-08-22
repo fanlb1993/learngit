@@ -4,3 +4,4 @@ Git has a mutable index colle stage.
 Git tracks changes.
 Creating a new branch is quick AND simple.
 --no -ff git merge.
+work to half.
